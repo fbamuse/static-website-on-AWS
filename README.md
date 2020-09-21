@@ -24,22 +24,22 @@ S3 offers several storage classes, which are different data access levels for yo
 
 ### 2. Upload files to S3 Bucket
 
-![](image/s3_bucket2.png)
+![](image/s3_bucket2.PNG)
 
 
 ### 3. Secure Bucket via IAM 
 
-![](image/s3_bucket4.png)
+![](image/s3_bucket4.PNG)
 
 ### 4. Configure S3 Bucket
 
 
-![](image/s3_bucket3.png)
+![](image/s3_bucket3.PNG)
 
 
 
 ### 5. Distribute Website via CloudFront
-![](image/cloudfront.png)
+![](image/cloudfront.PNG)
 **Cloud Front**  
 CloudFront is used as a global content delivery network (CDN). Cloud Front speeds up the delivery of your content through Amazon's worldwide network of mini-data centers called Edge Locations.
 CloudFront works with other AWS services, as shown below, as an origin source for your application:
@@ -55,7 +55,7 @@ CloudFront works with other AWS services, as shown below, as an origin source fo
 
 ### 6. Access Website in Web Browser
 
-![](image/result.png)
+![](image/result.PNG)
 
 http://bamuse.s3-ap-northeast-1.amazonaws.com/index.html
 
